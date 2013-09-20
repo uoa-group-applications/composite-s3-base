@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
@@ -13,13 +12,13 @@
 	<artifactId>composite-s3-base</artifactId>
 	<packaging>jar</packaging>
 	<name>composite-s3-base</name>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.4</version>
 
 	<scm>
 		<url>https://github.com/uoa-group-applications/composite-s3-base</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-s3-base.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-s3-base.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>composite-s3-base-1.4</tag>
 	</scm>
 
 	<dependencies>
