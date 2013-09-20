@@ -12,13 +12,13 @@
 	<artifactId>composite-s3-base</artifactId>
 	<packaging>jar</packaging>
 	<name>composite-s3-base</name>
-	<version>1.4</version>
+	<version>1.5-SNAPSHOT</version>
 
 	<scm>
 		<url>https://github.com/uoa-group-applications/composite-s3-base</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-s3-base.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-s3-base.git</developerConnection>
-		<tag>composite-s3-base-1.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
